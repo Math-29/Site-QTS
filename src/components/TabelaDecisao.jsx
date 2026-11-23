@@ -27,7 +27,6 @@ export default function TabelaDecisao({ ativa }) {
           ))}
         </tbody>
       </table>
-      <p className="nota">“—” significa que a condição não muda o resultado.</p>
     </div>
   );
 }
